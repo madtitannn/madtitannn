@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @madtitannn
+- 👋 Hi, I’m @titan_fajr
 - 👀 I’m interested in GIS
 - 🌱 I’m currently learning ArcGIS, QGIS, JavaScript
 - 💞️ I’m looking to collaborate on ...
